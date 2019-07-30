@@ -10,4 +10,9 @@ view: company_list {
     type: count
     drill_fields: []
   }
+
+  measure: a_sum {
+    type: sum
+    sql:  1 ;;
+  }
 }
