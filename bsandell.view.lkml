@@ -16,6 +16,10 @@ view: bsandell {
       month,
       quarter,
       year
+
+
+
+
     ]
     sql: ${TABLE}.end_time ;;
   }
