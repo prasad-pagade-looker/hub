@@ -14,6 +14,8 @@ view: a {
     convert_tz: no
     datatype: date
     sql: ${TABLE}.dt ;;
+
+
   }
 
   measure: count {
